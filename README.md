@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [lessnews.dev](https://lessnews.dev/)
+- 🔭 Check out my blog at https://boda.sh
 - 📫 Eamil me at: `hi@boda.sh`
