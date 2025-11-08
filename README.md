@@ -1,4 +1,5 @@
-## Hi there 👋
+**projects**
 
-- 🔭 Check out my blog at https://boda.sh
-- 📫 Eamil me at: `hi@boda.sh`
+🔭 [lessnews.dev](https://lessnews.dev/) _Newsfeed for busy web developers_
+
+📜 [Hacker News Headlines](https://lessnews.dev/headlines) _Every HN daily #1 posts_
