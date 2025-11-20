@@ -1,5 +1,5 @@
-**projects**
+✍️ [boda.sh](https://boda.sh/) _Personal blog_
 
 🔭 [lessnews.dev](https://lessnews.dev/) _Newsfeed for busy web developers_
 
-📜 [Hacker News Headlines](https://lessnews.dev/headlines) _Every HN daily #1 posts_
+🐦 [Twitter](https://x.com/bodadotsh/) _DM is open_
