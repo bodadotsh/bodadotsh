@@ -1,1 +1,1 @@
-✍️ [boda.sh](https://boda.sh/) _Personal blog_
+✍️ [boda.sh](https://boda.sh/)
